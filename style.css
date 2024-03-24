@@ -12,6 +12,9 @@ header,
     margin: 0;
 }
 
+a {
+    color: white;
+}
 body {
     font-family: Arial, sans-serif;
     margin: 0;
